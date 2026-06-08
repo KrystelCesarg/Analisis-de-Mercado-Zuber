@@ -128,10 +128,10 @@ Estos hallazgos pueden ser utilizados para comprender mejor la demanda de transp
 ## 📊 Visualizaciones
 
 ### Top 10 empresas de taxi
-![Empresas](imagenes/Top 10 empresas de taxis.png)
+(imagenes/Top 10 empresas de taxis.png)
 
 ### Top 10 barrios por finalización de viajes
-![Barrios](imagenes/Top 10 barrios principales.png)
+(imagenes/Top 10 barrios principales.png)
 
 ## 🚧 Retos encontrados y aprendizajes
 
